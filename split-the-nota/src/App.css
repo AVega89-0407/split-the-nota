@@ -12,6 +12,12 @@ h2 {
   text-align: center;
 }
 
+p {
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+
 form {
   margin-top: 2rem;
   display: flex;
