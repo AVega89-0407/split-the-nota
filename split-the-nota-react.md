@@ -22,9 +22,11 @@ Perfect for dinners where you want to quickly calculate how much each person owe
 ## 📸 Screenshots
 
 **Form Page**
+
 ![alt text](image.png)
 
 **Results Page**
+
  ![alt text](image-1.png)
 
  ## 📦 Installation
